@@ -1,0 +1,90 @@
+[22:36:50] ==== 批量开始 which=scenes 共 25 张 ====
+[22:36:50] [1/25] 01_江东一中操场.png
+[22:42:23] ==== 批量开始 which=scenes 范围=1-6 本批 6 张 ====
+[22:42:23] [1/25] 01_江东一中操场.png
+[22:43:09] DONE 01_江东一中操场.png <- https://file2.aitohumanize.com/file/d60dd19da59c43a8b46e61624c1a8171.png
+[22:43:09] [2/25] 02_江东一中主干道荣誉榜.png
+[22:46:52] WARN 02_江东一中主干道荣誉榜.png status=failed attempt=1
+[22:47:47] DONE 02_江东一中主干道荣誉榜.png <- https://file3.aitohumanize.com/file/5c46930665c74f3fa538353256cd371b.png
+[22:47:47] [3/25] 03_徐家老房子客厅.png
+[22:48:23] DONE 03_徐家老房子客厅.png <- https://file1.aitohumanize.com/file/f3d2ee437d244109b597ea4e84952927.png
+[22:48:23] [4/25] 04_徐琨卧室.png
+[22:49:07] DONE 04_徐琨卧室.png <- https://file1.aitohumanize.com/file/250429d9a1434703b5faa5227b18350a.png
+[22:49:07] [5/25] 05_民政局政务大厅.png
+[22:49:43] DONE 05_民政局政务大厅.png <- https://file4.aitohumanize.com/file/b5dea95c3cf84040b710cc19acf895c5.png
+[22:49:43] [6/25] 06_北辰武馆大门大厅.png
+[22:50:13] DONE 06_北辰武馆大门大厅.png <- https://file4.aitohumanize.com/file/0e2869d2ca964190a51c88018516c81a.png
+[22:50:13] ==== 批量结束 完成=6 跳过=0 失败=0 ====
+[22:50:33] ==== 批量开始 which=scenes 范围=7-12 本批 6 张 ====
+[22:50:33] [7/25] 07_北辰武馆综合测试区.png
+[22:54:21] WARN 07_北辰武馆综合测试区.png status=failed attempt=1
+[22:54:57] DONE 07_北辰武馆综合测试区.png <- https://file3.aitohumanize.com/file/e6917dbbbf654795bf4292b0b2664304.png
+[22:54:57] [8/25] 08_北辰武馆自助餐厅.png
+[22:55:33] DONE 08_北辰武馆自助餐厅.png <- https://file1.aitohumanize.com/file/27ff3622d4a249feaf7ad36b7bc8236b.png
+[22:55:33] [9/25] 09_北辰武馆重力室.png
+[22:56:16] DONE 09_北辰武馆重力室.png <- https://file1.aitohumanize.com/file/07a102da27464fe68a729b43737af258.png
+[22:56:16] [10/25] 10_北辰武馆淬体实验室.png
+[22:57:04] DONE 10_北辰武馆淬体实验室.png <- https://file1.aitohumanize.com/file/33183c7684184be9aacacb832782268b.png
+[22:57:04] [11/25] 11_北辰武馆馆主办公室.png
+[22:57:44] DONE 11_北辰武馆馆主办公室.png <- https://file3.aitohumanize.com/file/6e83980c65e446d9affd13a6d077898f.png
+[22:57:44] [12/25] 12_万宝商厦武道资源专区.png
+[22:58:40] DONE 12_万宝商厦武道资源专区.png <- https://file2.aitohumanize.com/file/c275f05f23ee4b06b8c56e4d1b7741a7.png
+[22:58:40] ==== 批量结束 完成=6 跳过=0 失败=0 ====
+[22:59:03] ==== 批量开始 which=scenes 范围=13-19 本批 7 张 ====
+[22:59:03] [13/25] 13_金汉斯自助烤肉.png
+[23:00:00] DONE 13_金汉斯自助烤肉.png <- https://file2.aitohumanize.com/file/74a2b790257c49dd9564a4b2700fc3ef.png
+[23:00:00] [14/25] 14_水云天皇室会所.png
+[23:00:53] DONE 14_水云天皇室会所.png <- https://file3.aitohumanize.com/file/30654ea40789424baa936198cabef21d.png
+[23:00:53] [15/25] 15_叶家庄园大厅.png
+[23:01:32] DONE 15_叶家庄园大厅.png <- https://file1.aitohumanize.com/file/e583745388654eae9f9c64cf4bb3b86c.png
+[23:01:32] [16/25] 16_天澜湾别墅训练场.png
+[23:02:10] DONE 16_天澜湾别墅训练场.png <- https://file5.aitohumanize.com/file/1cf895d754594f499ff83fd47e311207.png
+[23:02:10] [17/25] 17_市长官邸.png
+[23:03:08] DONE 17_市长官邸.png <- https://file4.aitohumanize.com/file/9c5bf0eb2de34f5da458a78ea5ac47de.png
+[23:03:08] [18/25] 18_第一武道医院大厅.png
+[23:03:47] DONE 18_第一武道医院大厅.png <- https://file2.aitohumanize.com/file/507b5aeb34e746149012772fb243e8f4.png
+[23:03:47] [19/25] 19_第一武道医院专家诊室.png
+[23:04:20] DONE 19_第一武道医院专家诊室.png <- https://file3.aitohumanize.com/file/929f53a248fc48b8805ec7c481d6589c.png
+[23:04:20] ==== 批量结束 完成=7 跳过=0 失败=0 ====
+[23:04:38] ==== 批量开始 which=scenes 范围=20-25 本批 6 张 ====
+[23:04:38] [20/25] 20_通天广场.png
+[23:05:51] DONE 20_通天广场.png <- https://file4.aitohumanize.com/file/a6fef8ce216f4d758ce3eb441ae1ab5d.png
+[23:05:51] [21/25] 21_通天塔外观.png
+[23:06:23] DONE 21_通天塔外观.png <- https://file3.aitohumanize.com/file/fec82e5131c9452f86ef83e1bbcf0f87.png
+[23:06:23] [22/25] 22_通天塔塔内重力层.png
+[23:07:28] DONE 22_通天塔塔内重力层.png <- https://file1.aitohumanize.com/file/0527c7f55aa14b1bb9596318e41caca5.png
+[23:07:28] [23/25] 23_通天塔第一万层塔顶.png
+[23:08:28] DONE 23_通天塔第一万层塔顶.png <- https://file5.aitohumanize.com/file/ec670486e62a44a5adcd350a11ed1f8d.png
+[23:08:28] [24/25] 24_荒野区.png
+[23:09:03] DONE 24_荒野区.png <- https://file2.aitohumanize.com/file/d80dce65a97540dc86e364f2a87117bf.png
+[23:09:03] [25/25] 25_环壁防空阵地.png
+[23:09:40] DONE 25_环壁防空阵地.png <- https://file2.aitohumanize.com/file/50329a5676d0458a8005049b8314e387.png
+[23:09:40] ==== 批量结束 完成=6 跳过=0 失败=0 ====
+[23:10:23] ==== 批量开始 which=props 范围=1-6 本批 6 张 ====
+[23:10:23] [1/12] 01_灵环智能手环.png
+[23:11:11] DONE 01_灵环智能手环.png <- https://file2.aitohumanize.com/file/88f3e64c1eb3461e90a0b8c81f95183e.png
+[23:11:11] [2/12] 02_武者通讯手表.png
+[23:11:54] DONE 02_武者通讯手表.png <- https://file5.aitohumanize.com/file/58035c42eec04af2b98d972aceb02eab.png
+[23:11:54] [3/12] 03_护臂光脑.png
+[23:12:39] DONE 03_护臂光脑.png <- https://file1.aitohumanize.com/file/667589763a714c65bb5f7ae20d150705.png
+[23:12:39] [4/12] 04_黑金卡.png
+[23:15:14] DONE 04_黑金卡.png <- https://file2.aitohumanize.com/file/9494a937eaeb49d1b407245451905140.png
+[23:15:14] [5/12] 05_家用身体数据测量仪.png
+[23:15:50] DONE 05_家用身体数据测量仪.png <- https://file2.aitohumanize.com/file/6863e5a428864d6e84275d70f16ceb09.png
+[23:15:50] [6/12] 06_黑陨铁山.png
+[23:16:35] DONE 06_黑陨铁山.png <- https://file2.aitohumanize.com/file/cebe5d9f75254cb48aafe40a845fd725.png
+[23:16:35] ==== 批量结束 完成=6 跳过=0 失败=0 ====
+[23:16:54] ==== 批量开始 which=props 范围=7-12 本批 6 张 ====
+[23:16:54] [7/12] 07_医疗修复舱.png
+[23:18:08] DONE 07_医疗修复舱.png <- https://file3.aitohumanize.com/file/d40c4ce028af497c92fa3c0e8584604e.png
+[23:18:08] [8/12] 08_空间戒指.png
+[23:19:09] DONE 08_空间戒指.png <- https://file3.aitohumanize.com/file/2344d303caf043eab46ad9ec37b5ba23.png
+[23:19:09] [9/12] 09_针剂与营养液.png
+[23:19:42] DONE 09_针剂与营养液.png <- https://file2.aitohumanize.com/file/97ed060b72bc42f39f11e68c7b1c53b1.png
+[23:19:42] [10/12] 10_外骨骼步兵装甲.png
+[23:20:27] DONE 10_外骨骼步兵装甲.png <- https://file3.aitohumanize.com/file/eb976c82db0e4ca19e216d617e179743.png
+[23:20:27] [11/12] 11_智能战机.png
+[23:21:04] DONE 11_智能战机.png <- https://file5.aitohumanize.com/file/92c3f3fbcce24cc19a0cb25eb642c301.png
+[23:21:04] [12/12] 01_赤炎魔鹫.png
+[23:21:47] DONE 01_赤炎魔鹫.png <- https://file4.aitohumanize.com/file/85a24eedb16b4b5fa5a3e70ec005c1c8.png
+[23:21:47] ==== 批量结束 完成=6 跳过=0 失败=0 ====
