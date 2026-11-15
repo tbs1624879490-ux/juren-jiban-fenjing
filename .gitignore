@@ -1,1 +1,18 @@
+# ===== 密钥（绝不提交、绝不打包外传）=====
+.grsai_key
+**/.grsai_key
+
+# ===== 出图产物 =====
+output/
+**/output/
+
+# ===== Python 缓存 =====
+__pycache__/
+*.pyc
 .DS_Store
+
+# ===== 拉片库本地索引（可重建，不进 git）=====
+.lapian/index.json
+
+# ===== 交付产物（本地生成，不进 git）=====
+交付/*.zip
