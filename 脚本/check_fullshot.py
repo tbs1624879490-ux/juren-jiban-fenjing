@@ -155,7 +155,7 @@ def check_file(path, script_path=None):
             errs.append(f"正文域代词「{p}」：…{ctx}…")
 
     for w in DANG:
-        if w in body:
+        if w in body2:  # 台词行与「」引文域豁免（禁词只查正文域·与代词0同口径）
             errs.append(f"禁词命中：{w}")
 
     return errs, warns
