@@ -119,7 +119,7 @@ def check_file(path, script_path=None):
         errs.append(f"【转场】{n_zc}条≠镜数{n_shots_hdr}")
 
     # —— 4. 对照区逐字 ——
-    m2 = re.search(r"【剧本原文对照】（五密终版L(\d+)-(\d+)[^）]*）\n(.*?)(?=\n\n【制作备注】|\Z)", text, re.S)
+    m2 = re.search(r"【剧本原文对照】（[^）]*?L(\d+)-(\d+)[^）]*）\n(.*?)(?=\n\n【制作备注】|\Z)", text, re.S)
     if not m2:
         errs.append("缺【剧本原文对照】节或行号头")
     else:
@@ -162,7 +162,7 @@ def check_file(path, script_path=None):
 
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    script = "前10集剧本_终版_五密_20261014.md"
+    script = "0、分场分幕和剧本/剧本.md"  # 产线换锚20261117
     files = []
     for a in args:
         if os.path.isdir(a):
